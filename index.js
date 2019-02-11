@@ -18,6 +18,6 @@ function changeLeastFavoriteCustomer() {
   leastFavoriteCustomer = 'mike';
 }
 
-function attemptTwoFavoriteCustomers {
-  var 
+function attemptTwoFavoriteCustomers() {
+  var favoriteCustomer = 'oscobar';
 }
